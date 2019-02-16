@@ -34,6 +34,6 @@ datadict-cli-windows-amd64.zip
 
 生成效果
 #### html
-![html](https://github.com/SailSea/datadict/image/html.png)
+![html](https://github.com/SailSea/datadict/blob/master/image/html.png)
 #### markdown
-![markdown](https://github.com/SailSea/datadict/image/markdown.png)
+![markdown](https://github.com/SailSea/datadict/blob/master/image/markdown.png)
