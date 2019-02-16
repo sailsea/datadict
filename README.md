@@ -1,0 +1,2 @@
+# datadict
+一个自动生成数据字典的mysql工具

@@ -2,7 +2,7 @@
 package main
 
 import (
-	"datadict/model"
+	"github.com/SailSea/datadict/model"
 	"fmt"
 	"github.com/urfave/cli"
 	"log"
